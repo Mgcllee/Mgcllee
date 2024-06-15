@@ -11,9 +11,5 @@
 <img src="https://img.shields.io/badge/Unreal Engine-F09820?style=flat-plastic&logo=unrealengine"/>
 </div>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mgcllee)](https://solved.ac/mgcllee)
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgcllee)](https://github.com/anuraghazra/github-readme-stats)
--->
-
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mgcllee)](https://solved.ac/mgcllee)
+![mazandi profile](https://mazandi.herokuapp.com/api?handle=mgcllee&theme=yellow)
