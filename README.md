@@ -4,7 +4,6 @@
 
 ## 🦊 공부 중
 <div>
-<img src="https://img.shields.io/badge/C-F09820?style=flat-plastic&logo=c"/>
 <img src="https://img.shields.io/badge/C++-F09820?style=flat-plastic&logo=cplusplus"/>
 <img src="https://img.shields.io/badge/C%23-F09820?style=flat-plastic&logo=csharp"/>
 <img src="https://img.shields.io/badge/Unity-F09820?style=flat-plastic&logo=unity"/>
